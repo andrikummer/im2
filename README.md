@@ -1,2 +1,2 @@
 # im2
-FHGR Projekt IM2
+API Projekt IM2
